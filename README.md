@@ -5,7 +5,7 @@ Features<br>
   Teams: Manage team information, including creating, reading, updating, and deleting records.<br>
   Matches: Manage match information, including creating, reading, updating, and deleting records.<br>
   <br>
-  Technologies<br>
+  Technologies<br> 
   Java 17<br>
 Spring Boot 3<br>
 Spring Data JPA<br>
